@@ -1,0 +1,46 @@
+body {
+  background-image: url("https://image.freepik.com/free-photo/blurred-abstract-background-modern-kitchen-with-tabletop-space-display-your-products_91908-1263.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+/*For Heading*/
+.header1{
+	text-align-last: center;
+	font-size: 400%;
+	font-style: italic;
+	font-family: 'Josefin Sans', sans-serif;
+  font-weight: 30px;
+
+}
+
+.col-sm-2 {
+  border: 1px #ccc solid;
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
+.col-sm-4 {
+  border: 1px #ccc solid;
+  background-color: yellow;
+  text-align: center;
+}
+
+.col-sm-8 {
+  border: 1px #ccc solid;
+  background-color: green;
+  text-align: center;
+}
+
+
+#footer {
+    /*position: fixed;*/
+    top: 0;
+    width: 100%;
+    height: 60px;
+    /*text-align: center;*/
+    background-color: gray;
+    font-size: 20px;
+    color: black;
+    margin: 0;
+}
